@@ -1,0 +1,6 @@
+alembic==1.4.3
+click==7.1.2
+pdftotext==2.1.5
+pyttsx3==2.90
+SQLAlchemy==1.3.20
+tabulate==0.8.7
